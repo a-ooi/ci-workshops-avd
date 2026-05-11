@@ -241,7 +241,7 @@ vlan_interfaces:
   shutdown: false
   tenant: MY_FABRIC
   tags:
-  - Guests
+  - Guest
 vlan_internal_order:
   allocation: ascending
   range:
