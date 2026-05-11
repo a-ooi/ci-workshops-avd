@@ -10,3 +10,4 @@
         name: arista.avd.cv_deploy
       vars:
         cv_run_change_control: true
+        cv_server: "advance-automation-1-0f7e58a2-eos.topo.testdrive.arista.com"
